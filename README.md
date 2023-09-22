@@ -7,9 +7,9 @@ Velice rád získávám znalosti a dovednosti v pro mě nových situacích. Rád
 
 
 # Přehled public repozitářů
-| :Repozitář: | :Jazyk: | :Popis: |
-| --- | --- |
-| Cycling | Python | Pracovní verze deskové hry |
-| JobTask01| Python | Řešení několika příkladů ze vstupních pohovorů |
-| Ekont | FoxPro | Kompletní podvojné účetnictví DOS | 
+| Repozitář   | Jazyk     | Popis                                          |
+| ----------- | --------- | ---------------------------------------------- |
+| Cycling     | Python    | Pracovní verze deskové hry                     |
+| JobTask01   | Python    | Řešení několika příkladů ze vstupních pohovorů |
+| Ekont       | FoxPro    | Kompletní podvojné účetnictví DOS              | 
 
