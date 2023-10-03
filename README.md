@@ -14,3 +14,4 @@ Velice rád získávám znalosti a dovednosti v pro mě nových situacích. Rád
 | Ekont         | FoxPro    | Kompletní podvojné účetnictví DOS              | 
 | Tournament... | JAVA      | Můj první program v JAVA. Rozpočet zápasů      |
 
+
