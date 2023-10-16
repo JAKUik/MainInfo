@@ -7,13 +7,3 @@ Aktuálně se intenzivně věnuji rozšíření svých vědomostí i o frontendo
 Velice rád získávám znalosti a dovednosti v pro mě nových situacích. Rád hledám nová řešení, u kterých mohu uplatnit kombinační a analytické myšlení, které je mi vlastní. Jsem připraven se popasovat s jakoukoliv výzvou, která přede mě bude postavena.
 
 
-## Přehled public repozitářů
-| Repozitář     | Jazyk     | Popis                                          |
-| ------------- | --------- | ---------------------------------------------- |
-| Cycling       | Python    | Pracovní verze deskové hry                     |
-| JobTask01     | Python    | Řešení několika příkladů ze vstupních pohovorů |
-| Ekont         | FoxPro    | Kompletní podvojné účetnictví DOS              | 
-| Tournament... | JAVA      | Můj první program v JAVA. Rozpočet zápasů      |
-| Task01        | JAVA      | Vyřešení pohovorového příkladu v jazyce JAVA   |
-
-
